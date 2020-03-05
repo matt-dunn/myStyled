@@ -5,4 +5,4 @@ on the topic of how styled components work under the hood.
 
 See [myStyled](./src/myStyled) for the implementation.
 
-[Demo](https://matt-dunn.github.io/mystyled/dist/index.html)
+[Demo](https://matt-dunn.github.io/myStyled/dist/index.html)
